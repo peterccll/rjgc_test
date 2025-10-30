@@ -1,2 +1,3 @@
 # rjgc_test
-a homework
+a homework for rjgc
+lushen666
